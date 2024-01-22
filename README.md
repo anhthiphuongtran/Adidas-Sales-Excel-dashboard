@@ -6,5 +6,5 @@
 ## Result
 * Please find the excel file to discover the dashboard including all related tables and charts.
 
-![Uploading image.png…]()
+![image](https://github.com/anhthiphuongtran/Adidas-Sales-Excel-dashboard/assets/105230494/8eed758f-0c5f-414e-977c-378a2e25c620)
 
